@@ -1,0 +1,51 @@
+# Unity-generated files to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+Packages/
+MemoryCaptures/
+
+# Crash and debug files
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Cache and backup files
+*.bak
+*.swp
+*.lock
+*.lock.json
+*.tmp
+.DS_Store
+
+# Unity auto-generated files
+/Assets/AssetStoreTools*
+
+# Visual Studio and Rider files
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.iml
+
+# Ignore HTTP client requests and data source files
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
+# Unity Burst and Render Pipeline packages (optional — can ignore if needed)
+/Packages/com.unity.burst/*
+/Packages/com.unity.render-pipelines.universal/*
+
+# Ignore all .meta files (optional — depends on how you handle meta files)
+/*.meta
